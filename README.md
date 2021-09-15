@@ -1,6 +1,5 @@
 - 👋 Hi, I’m hyder
 - 👀 I’m interested in devops projects
-- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on devops projects
 - 📫 How to reach me hyderdevops@gmail.com
 
